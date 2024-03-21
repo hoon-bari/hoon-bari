@@ -28,12 +28,8 @@
 
 <br>
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoon-bari&show_icons=true" width="48%" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact" />
-</a>
+<a href="https://github.com/hoon-bari"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hoon-bari&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="hoon-bari's github stats" /></a>
+<a href="https://github.com/hoon-bari"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact&theme=nord&hide_border=true" /></a> 
 
 </div>
 
