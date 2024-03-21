@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seunghoon%20Choi&fontSize=90&desc=hoon-bari&descSize=40&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seunghoon%20Choi&fontSize=80&desc=hoon-bari&descSize=40&descAlign=80)
 
 <!--
 **hoon-bari/hoon-bari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
