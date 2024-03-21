@@ -29,7 +29,7 @@
 <br>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoon-bari&theme=transparent&show_icons=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoon-bari&theme=transparent&show_icons=true" width="39%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact&theme=transparent" />
