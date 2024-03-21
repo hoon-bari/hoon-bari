@@ -28,8 +28,12 @@
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon-bari)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoon-bari&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 </div>
 
