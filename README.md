@@ -29,10 +29,10 @@
 <br>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoon-bari&theme=dracula&show_icons=true&card_width=300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoon-bari&show_icons=true&card_width=300" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact" />
 </a>
 
 </div>
