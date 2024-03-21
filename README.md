@@ -28,8 +28,8 @@
 
 <br>
 
-<img src="https://github.com/hoon-bari/github-stats-transparent/blob/output/generated/overview.svg" width="49.2%" />
-<img src="https://github.com/hoon-bari/github-stats-transparent/blob/output/generated/languages.svg" width="49.2%" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon-bari)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
