@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hoon-bari&theme=tokyonight&show_icons=true"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact&theme=tokyonight" width="42%" />
 </a>
 
 </div>
