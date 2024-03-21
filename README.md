@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghoon%20Choi&fontSize=70&fontAlign=60&fontAlignY=40&desc=Welcome%20🤗&descSize=25&descAlign=85)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seunghoon%20Choi&fontSize=70&fontAlign=60&fontAlignY=40&desc=Welcome%20to%20my%20github%20🤗&descSize=25&descAlign=85)
 
 <div align = "center">
   
