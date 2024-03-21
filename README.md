@@ -22,7 +22,7 @@
 <br>
 
 ### ⭐️ About Me ⭐️
-<img src="https://img.shields.io/badge/Blog-BBDDE5?style=flat&logo=gitbook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Blog-BBDDE5?style=flat&logo=gitbook&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Portfolio-F7A81B?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
