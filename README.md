@@ -19,7 +19,12 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
 
+<br>
 
+### ⭐️ About Me ⭐️
+<img src="https://img.shields.io/badge/Blog-BBDDE5?style=flat&logo=gitbook&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Portfolio-F7A81B?style=flat&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
 
 </div>
