@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Portfolio-F7A81B?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
+<img src="https://raw.githubusercontent.com/dkssud8150/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
 
 </div>
 
