@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pyg-3C2179?style=flat&logo=pyg&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></a>
 
 </div>
 
