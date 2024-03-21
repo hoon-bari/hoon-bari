@@ -26,6 +26,9 @@
 <img src="https://img.shields.io/badge/Portfolio-F7A81B?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
+<br>
+
+<img src="https://github.com/hoon-bari/github-stats-transparent/blob/output/generated/overview.svg" width="49.2%" />
 <img src="https://github.com/hoon-bari/github-stats-transparent/blob/output/generated/languages.svg" width="49.2%" />
 
 </div>
