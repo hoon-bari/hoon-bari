@@ -26,11 +26,6 @@
 <img src="https://img.shields.io/badge/Portfolio-F7A81B?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 
-<br>
-
-<a href="https://github.com/hoon-bari"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hoon-bari&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="hoon-bari's github stats" /></a>
-<a href="https://github.com/hoon-bari"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoon-bari&layout=compact&theme=nord&hide_border=true" /></a> 
-
 </div>
 
 <!--
